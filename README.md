@@ -153,6 +153,3 @@ GET /org-url/:code
 
 ---
 
-## 📜 License  
-
-MIT License © 2025 [Your Name]  
