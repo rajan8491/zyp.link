@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: postgres:17.4
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_DB: zypdb
+      POSTGRES_PASSWORD: admin1234
+      POSTGRES_USER: rajan3095
